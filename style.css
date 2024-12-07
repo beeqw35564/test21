@@ -50,7 +50,7 @@ html body {
 
 .image {
   display: block;
-  width: 30%;
+  width: 50%;
   height: auto;
 }
 
@@ -61,7 +61,7 @@ html body {
   right: 0;
   background-color: #008CBA;
   overflow: hidden;
-  width: 30%;
+  width: 1000%;
   height: 0;
   transition: .5s ease;
 }
