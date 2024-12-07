@@ -50,8 +50,8 @@ html body {
 
 .image {
   display: block;
-  width: 50%;
-  height: 50%;
+  width: 30%;
+  height: auto;
 }
 
 .overlay {
